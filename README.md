@@ -5,7 +5,9 @@ My participation to a inter-school contest, working with designers from the Ecol
 Our subject was the Vendée Globe, a french saling race doing a world turn. We choose to introduce the race by following each of its steps.  
 Multi-media content includes : 3D objects, texts with tooltips, images, interractive data-visualizations and videos.  
    
-Code can be pretty messy as we were very limited by time. By the way, we won the first place with it.
+Code can be pretty messy as we were very limited by time. By the way, we won the first place with it.   
+
+Currently running here : http://apps.hyblab.fr/ds2016/france_3/
 
 ##Client-side libraries used
 - https://github.com/pupunzi/jquery.mb.YTPlayer
