@@ -1,4 +1,4 @@
-###Hyblab datasport 2016 - France 3
+### Hyblab datasport 2016 - France 3
 
 My participation to a inter-school contest, working with designers from the Ecole de design Nantes Atlantique. We worked with TV channel France 3 region.   
      
@@ -9,7 +9,7 @@ Code can be pretty messy as we were very limited by time. By the way, we won the
 
 Currently running here : http://apps.hyblab.fr/ds2016/france_3/
 
-##Client-side libraries used
+## Client-side libraries used
 - https://github.com/pupunzi/jquery.mb.YTPlayer
 - https://github.com/mrdoob/three.js/
 - https://github.com/alvarotrigo/fullPage.js/
@@ -20,7 +20,7 @@ Currently running here : http://apps.hyblab.fr/ds2016/france_3/
 - https://github.com/pablomolnar/radial-progress-chart (modified)
 - http://johannburkard.de/resources/Johann/jquery.inc-7.js (modified)
 
-##Install
+## Install
 ```sh
 npm install
 ```
